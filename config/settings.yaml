@@ -1,0 +1,18 @@
+logging:
+  level: INFO
+  color: true
+search:
+  top_k: 5
+  rrf_k: 60
+city_synonyms:
+  paris: ["france", "eiffel tower"]
+  tokyo: ["japan", "shibuya"]
+  new york: ["nyc", "manhattan"]
+  sydney: ["australia", "opera house"]
+  rome: ["italy", "colosseum"]
+  cape town: ["south africa", "table mountain"]
+  bangkok: ["thailand", "grand palace"]
+  barcelona: ["spain", "sagrada familia"]
+  cairo: ["egypt", "pyramids"]
+  rio: ["brazil", "copacabana"]
+
